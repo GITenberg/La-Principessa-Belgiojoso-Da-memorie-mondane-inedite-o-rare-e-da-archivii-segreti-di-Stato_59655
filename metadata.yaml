@@ -1,5 +1,8 @@
 _repo: La-Principessa-Belgiojoso-Da-memorie-mondane-inedite-o-rare-e-da-archivii-segreti-di-Stato_59655
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59655-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbiera, Raffaello
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49061
     wikipedia: https://it.wikipedia.org/wiki/Raffaello_Barbiera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59655#La-Principessa-Belgiojoso-Da-memorie-mondane-inedite-o-rare-e-da-archivii-segreti-di-Stato
 gutenberg_issued: '2019-06-02'
 gutenberg_type: Text
 identifiers:
